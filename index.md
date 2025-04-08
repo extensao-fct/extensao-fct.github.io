@@ -25,6 +25,8 @@ Arquivos dos slides usados em aula:
 - [AR09 - Sensor ultrassônico e motor DC](materiais/Arduino9.pdf)
 - [AR10 - Projeto final](materiais/Arduino10.pdf)
 
+## POTI em Aritmética
+- [POTI01 - Introdução e operações elementares](materiais/POTI_Aula_1.pdf)
 
 --- -->
 Encontrou algum erro ou tem alguma sugestão? Por favor, comunique-nos mandando um e-mail para o endereço [irineu.palhares@unesp.br](mailto:irineu.palhares@unesp.br) com a sua contribuição e identificação com nome e turma. Agradecemos a sua colaboração.
