@@ -26,7 +26,7 @@ Arquivos dos slides usados em aula:
 - [AR10 - Projeto final](materiais/Arduino10.pdf)
   
 ## Programação para Arduino - Atualização (em processo)
-- [Display LCD 16x2](materiais/DisplayCLD.pdf) 
+- [Display LCD 16x2](materiais/DisplayLCD.pdf) 
 
 
 ## POTI em Aritmética
