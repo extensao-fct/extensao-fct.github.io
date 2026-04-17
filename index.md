@@ -24,6 +24,10 @@ Arquivos dos slides usados em aula:
 - [AR08 - Sensores de temperatura e humidade](materiais/Arduino8.pdf)
 - [AR09 - Sensor ultrassônico e motor DC](materiais/Arduino9.pdf)
 - [AR10 - Projeto final](materiais/Arduino10.pdf)
+  
+## Programação para Arduino - Atualização (em processo)
+- [Display LCD 16x2](materiais/DisplayCLD.pdf) 
+
 
 ## POTI em Aritmética
 - [POTI01 - Introdução e operações elementares](materiais/POTI_Aula_1.pdf)
