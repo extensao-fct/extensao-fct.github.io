@@ -26,6 +26,8 @@ Arquivos dos slides usados em aula:
 - [AR10 - Projeto final](materiais/Arduino10.pdf)
   
 ## Programação para Arduino - Atualização (em processo)
+- [Potenciômetro](materiais/Potenciometro.pdf)
+- [Display 7 segmentos](materiais/Display7Segmentos.pdf)
 - [Display LCD 16x2](materiais/DisplayLCD.pdf) 
 
 
