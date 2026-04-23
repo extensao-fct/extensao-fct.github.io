@@ -25,14 +25,13 @@ Arquivos dos slides usados em aula:
 - [AR09 - Sensor ultrassônico e motor DC](materiais/Arduino9.pdf)
 - [AR10 - Projeto final](materiais/Arduino10.pdf)
   
-## Programação para Arduino - Atualização (em processo)
+## Introdução à programação e robótica com o microcontrolador Arduino
 - [Potenciômetro](materiais/Potenciometro.pdf)
 - [Display 7 segmentos](materiais/Display7Segmentos.pdf)
-- [Display LCD 16x2](materiais/DisplayLCD.pdf) 
+- [Display LCD 16x2](materiais/DisplayLCD.pdf)
 
-
-## POTI em Aritmética
-- [POTI01 - Introdução e operações elementares](materiais/POTI_Aula_1.pdf)
+## Minicurso: Programação para Arduino (EPEM 2026)
+- [AR01 - LEDs, LDR e Potenciômetro](materiais/EPEM2026.pdf)
 
 --- -->
 Encontrou algum erro ou tem alguma sugestão? Por favor, comunique-nos mandando um e-mail para o endereço [irineu.palhares@unesp.br](mailto:irineu.palhares@unesp.br) com a sua contribuição e identificação com nome e turma. Agradecemos a sua colaboração.
