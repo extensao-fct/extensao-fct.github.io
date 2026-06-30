@@ -26,9 +26,10 @@ Arquivos dos slides usados em aula:
 - [AR10 - Projeto final](materiais/Arduino10.pdf)
   
 ## Introdução à programação e robótica com o microcontrolador Arduino
-- [AR01 - Potenciômetro](materiais/Potenciometro.pdf)
-- [AR02 - Display 7 segmentos](materiais/Display7Segmentos.pdf)
-- [AR03 - Display LCD 16x2](materiais/DisplayLCD.pdf)
+- [AR01 - Apresentação](materiais/AR01_ApresentacaoArduino.pdf)
+- [AR04 - Potenciômetro](materiais/Potenciometro.pdf)
+- [AR05 - Display 7 segmentos](materiais/Display7Segmentos.pdf)
+- [AR06 - Display LCD 16x2](materiais/DisplayLCD.pdf)
 
 ## Minicurso: Programação para Arduino (EPEM 2026)
 - [AR01 - LEDs, LDR e Potenciômetro](materiais/EPEM2026.pdf)
