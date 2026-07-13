@@ -26,7 +26,7 @@ Arquivos dos slides usados em aula:
 - [AR10 - Projeto final](materiais/Arduino10.pdf)
   
 ## Introdução à programação e robótica com o microcontrolador Arduino
-- [AR01 - Apresentação](materiais/AR01_ApresentacaoArduino.pdf)
+- [AR01 - Apresentação do Arduino](materiais/AR01_ApresentacaoArduino.pdf)
 - [AR04 - Potenciômetro](materiais/Potenciometro.pdf)
 - [AR05 - Display 7 segmentos](materiais/Display7Segmentos.pdf)
 - [AR06 - Display LCD 16x2](materiais/DisplayLCD.pdf)
@@ -36,7 +36,7 @@ Arquivos dos slides usados em aula:
 
 # Vídeos
 ## Introdução à programação e robótica com o microcontrolador Arduino
-- [AR01 - Apresentação](https://youtu.be/lAV8_P1Oipg)
+- [AR01 - Apresentação do Arduino](https://youtu.be/lAV8_P1Oipg)
 
 
 --- -->
