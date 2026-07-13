@@ -34,5 +34,10 @@ Arquivos dos slides usados em aula:
 ## Minicurso: Programação para Arduino (EPEM 2026)
 - [AR01 - LEDs, LDR e Potenciômetro](materiais/EPEM2026.pdf)
 
+# Vídeos
+## Introdução à programação e robótica com o microcontrolador Arduino
+- [AR01 - Apresentação](https://youtu.be/lAV8_P1Oipg)
+
+
 --- -->
 Encontrou algum erro ou tem alguma sugestão? Por favor, comunique-nos mandando um e-mail para o endereço [irineu.palhares@unesp.br](mailto:irineu.palhares@unesp.br) com a sua contribuição e identificação com nome e turma. Agradecemos a sua colaboração.
