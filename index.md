@@ -28,7 +28,7 @@ Arquivos dos slides usados em aula:
 ## Introdução à programação e robótica com o microcontrolador Arduino
 - [AR01 - Apresentação do Arduino](materiais/AR01_ApresentacaoArduino.pdf) - [(Vídeo)](https://youtu.be/lAV8_P1Oipg)
 - [AR02 - Cálculo de resistores e o acionamento de LEDs](materiais/AR02_CalculoResistores.pdf) - [(Video)](https://youtu.be/YPv8uiCsjwg)
-- [AR03 - Botão de pressão](materiais/AR03_BotaoPressao.pdf) - [(Video)](https://youtu.be/YPv8uiCsjwg)
+- [AR03 - Botão de pressão](materiais/AR03_BotaoPressao.pdf) - [(Video)](https://youtu.be/bpJcnoTDbds)
 - [AR04 - Potenciômetro](materiais/Potenciometro.pdf)
 - [AR05 - Display 7 segmentos](materiais/Display7Segmentos.pdf)
 - [AR06 - Display LCD 16x2](materiais/DisplayLCD.pdf)
