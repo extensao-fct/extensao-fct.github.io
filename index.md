@@ -30,7 +30,7 @@ Arquivos dos slides usados em aula:
 - [AR02 - Cálculo de resistores e o acionamento de LEDs](materiais/AR02_CalculoResistores.pdf) - [(Video)](https://youtu.be/YPv8uiCsjwg)
 - [AR03 - Botão de pressão](materiais/AR03_BotaoPressao.pdf) - [(Video)](https://youtu.be/bpJcnoTDbds)
 - [AR04 - Potenciômetro](materiais/Potenciometro.pdf) - [(Vídeo)](https://youtu.be/gNUVnmnHxHE)
-- [AR05 - Display 7 segmentos](materiais/Display7Segmentos.pdf)
+- [AR05 - Display 7 segmentos](materiais/Display7Segmentos.pdf) - [(Vídeo)](https://www.youtube.com/watch?v=9MHINASz3KA)
 - [AR06 - Display LCD 16x2](materiais/DisplayLCD.pdf)
 
 ## Minicurso: Programação para Arduino (EPEM 2026)
