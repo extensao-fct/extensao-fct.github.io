@@ -31,7 +31,7 @@ Arquivos dos slides usados em aula:
 - [AR03 - Botão de pressão](materiais/AR03_BotaoPressao.pdf) - [(Video)](https://youtu.be/bpJcnoTDbds)
 - [AR04 - Potenciômetro](materiais/Potenciometro.pdf) - [(Vídeo)](https://youtu.be/gNUVnmnHxHE)
 - [AR05 - Display 7 segmentos](materiais/Display7Segmentos.pdf) - [(Vídeo)](https://www.youtube.com/watch?v=9MHINASz3KA)
-- [AR06 - Display LCD 16x2](materiais/DisplayLCD.pdf)
+- [AR06 - Display LCD 16x2](materiais/AR06_DisplayLCD.pdf)
 
 ## Minicurso: Programação para Arduino (EPEM 2026)
 - [AR01 - LEDs, LDR e Potenciômetro](materiais/EPEM2026.pdf)
