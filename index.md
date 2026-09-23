@@ -18,7 +18,7 @@ Arquivos dos slides usados em aula:
 - [AR08 - Fotoresistor LDR](materiais/AR08_LDR.pdf)
 - [AR09 - Buzzer](materiais/AR09_Buzzer.pdf)
 - [AR10 - Sensor ultrassônico](materiais/AR10_SensorUltrassonico.pdf)
-- [AR11 - Motor DC](materiais/AR10_Motor_DC.pdf)
+- [AR11 - Motor DC](materiais/AR11_Motor_DC.pdf)
 - [AR12 - Servo motor](materiais/AR11_Servo_Motor.pdf)
 
 --- -->
