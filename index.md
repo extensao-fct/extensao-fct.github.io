@@ -15,7 +15,7 @@ Arquivos dos slides usados em aula:
 - [AR05 - Display 7 segmentos](materiais/AR05_Display7Segmentos.pdf) - [(Vídeo)](https://www.youtube.com/watch?v=9MHINASz3KA)
 - [AR06 - Display LCD 16x2](materiais/AR06_DisplayLCD.pdf) - [(Vídeo)](https://www.youtube.com/watch?v=I9AWD71jx74)
 - [AR07 - Teclado matricial](materiais/AR07_KeyPad.pdf) - [(Vídeo)](https://youtu.be/3XwtgUX3oAI)
-- [AR08 - Fotoresistor LDR](materiais/AR08_LDR.pdf)
+- [AR08 - Fotoresistor LDR](materiais/AR08_LDR.pdf) - [(Vídeo)](https://youtu.be/u1YPek3NEMk)
 - [AR09 - Buzzer](materiais/AR09_Buzzer.pdf)
 - [AR10 - Sensor ultrassônico](materiais/AR10_SensorUltrassonico.pdf)
 - [AR11 - Motor DC](materiais/AR11_Motor_DC.pdf)
