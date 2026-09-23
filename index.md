@@ -11,7 +11,7 @@ Arquivos dos slides usados em aula:
 - [AR01 - Apresentação do Arduino](materiais/AR01_ApresentacaoArduino.pdf) - [(Vídeo)](https://youtu.be/lAV8_P1Oipg)
 - [AR02 - Cálculo de resistores e o acionamento de LEDs](materiais/AR02_CalculoResistores.pdf) - [(Video)](https://youtu.be/YPv8uiCsjwg)
 - [AR03 - Botão de pressão](materiais/AR03_BotaoPressao.pdf) - [(Video)](https://youtu.be/bpJcnoTDbds)
-- [AR04 - Potenciômetro](materiais/Potenciometro.pdf) - [(Vídeo)](https://youtu.be/gNUVnmnHxHE)
+- [AR04 - Potenciômetro](materiais/AR04_Potenciometro.pdf) - [(Vídeo)](https://youtu.be/gNUVnmnHxHE)
 - [AR05 - Display 7 segmentos](materiais/Display7Segmentos.pdf) - [(Vídeo)](https://www.youtube.com/watch?v=9MHINASz3KA)
 - [AR06 - Display LCD 16x2](materiais/AR06_DisplayLCD.pdf) - [(Vídeo)](https://www.youtube.com/watch?v=I9AWD71jx74)
 - [AR07 - Teclado matricial](materiais/AR07_KeyPad.pdf)
