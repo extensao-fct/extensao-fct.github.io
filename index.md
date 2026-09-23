@@ -19,7 +19,7 @@ Arquivos dos slides usados em aula:
 - [AR09 - Buzzer](materiais/AR09_Buzzer.pdf)
 - [AR10 - Sensor ultrassônico](materiais/AR10_SensorUltrassonico.pdf)
 - [AR11 - Motor DC](materiais/AR11_Motor_DC.pdf)
-- [AR12 - Servo motor](materiais/AR11_Servo_Motor.pdf)
+- [AR12 - Servo motor](materiais/AR12_Servo_Motor.pdf)
 
 --- -->
 Encontrou algum erro ou tem alguma sugestão? Por favor, comunique-nos mandando um e-mail para o endereço [irineu.palhares@unesp.br](mailto:irineu.palhares@unesp.br) com a sua contribuição e identificação com nome e turma. Agradecemos a sua colaboração.
