@@ -14,7 +14,7 @@ Arquivos dos slides usados em aula:
 - [AR04 - Potenciômetro](materiais/AR04_Potenciometro.pdf) - [(Vídeo)](https://youtu.be/gNUVnmnHxHE)
 - [AR05 - Display 7 segmentos](materiais/AR05_Display7Segmentos.pdf) - [(Vídeo)](https://www.youtube.com/watch?v=9MHINASz3KA)
 - [AR06 - Display LCD 16x2](materiais/AR06_DisplayLCD.pdf) - [(Vídeo)](https://www.youtube.com/watch?v=I9AWD71jx74)
-- [AR07 - Teclado matricial](materiais/AR07_KeyPad.pdf)
+- [AR07 - Teclado matricial](materiais/AR07_KeyPad.pdf) - [(Vídeo)](https://youtu.be/3XwtgUX3oAI)
 - [AR08 - Fotoresistor LDR](materiais/AR08_LDR.pdf)
 - [AR09 - Buzzer](materiais/AR09_Buzzer.pdf)
 - [AR10 - Sensor ultrassônico](materiais/AR10_SensorUltrassonico.pdf)
