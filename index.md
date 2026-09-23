@@ -4,7 +4,7 @@ As informações sobre a oferta da disciplina no período 2020.2 podem ser lidas
 # Contato
 Email para contato: [irineu.palhares@unesp.br](mailto:irineu.palhares@unesp.br).
 
-# Slides
+# Slides + Vídeos
 Arquivos dos slides usados em aula:
   
 ## Curso de Especialização: Introdução à programação e robótica com o microcontrolador Arduino
