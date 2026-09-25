@@ -16,7 +16,7 @@ Arquivos dos slides usados em aula:
 - [AR06 - Display LCD 16x2](materiais/AR06_DisplayLCD.pdf) - [(Vídeo)](https://www.youtube.com/watch?v=I9AWD71jx74)
 - [AR07 - Teclado matricial](materiais/AR07_KeyPad.pdf) - [(Vídeo)](https://youtu.be/3XwtgUX3oAI)
 - [AR08 - Fotoresistor LDR](materiais/AR08_LDR.pdf) - [(Vídeo)](https://youtu.be/u1YPek3NEMk)
-- [AR09 - Buzzer](materiais/AR09_Buzzer.pdf)
+- [AR09 - Buzzer](materiais/AR09_Buzzer.pdf) - [(Vídeo)](https://youtu.be/m-9UZ4y3iFE)
 - [AR10 - Sensor ultrassônico](materiais/AR10_SensorUltrassonico.pdf)
 - [AR11 - Motor DC](materiais/AR11_Motor_DC.pdf)
 - [AR12 - Servo motor](materiais/AR12_Servo_Motor.pdf)
